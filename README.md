@@ -1,6 +1,6 @@
 # Vidly
-# Credit to - Programming with Mosh 
 
+Credit to - Programming with Mosh 
 A learning tutorial that covered the following concepts:
 
 ASP.NET MVC Fundamentals
